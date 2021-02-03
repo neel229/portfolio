@@ -58,7 +58,7 @@
   button {
     size: 1.2em;
     background-color: #222;
-    color: lightblue;
+    color: lightgreen;
     border-radius: 12px;
     padding: 0.75rem 0.75rem;
     text-align: center;
@@ -66,5 +66,6 @@
     margin-top: 10px;
     font-size: 20px;
     border: none;
+    cursor: pointer;
   }
 </style>
